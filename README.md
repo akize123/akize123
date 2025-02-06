@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @akize123
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning at AUCA
-- 💞️ I’m looking to collaborate on SOFTWARE ENGINEERING
+- 👋 Hi, I’m Akize Israel
+- 👀I am currently 
+- 🌱 I’m currently Pursuing a software engineenring 
+- 💞️ 
 - 📫 How to reach me it is through this account
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ..he.
+- ⚡ Fun fact: ..coding.
 
 <!---
 akize123/akize123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
