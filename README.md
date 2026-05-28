@@ -1,13 +1,13 @@
 Software Engineering student at Adventist University of Central Africa (AUCA) with hands-on experience in full-stack development (Java, Spring Boot, React.js) and database optimization. Additionally, brings a strong background in Quality Assurance, managing field teams, conducting audits, and ensuring compliance with construction standards, particularly in eco-friendly building practices. Skilled in training, data analysis, and process optimization, eager to apply both technical and QA expertise to real-world challenges. Seeking an opportunity to contribute to impactful IT and construction projects, while growing professionally in a collaborative, solutions-driven environment.
 
-==========================================================================================================================================================================================================================================================================================================================================================
 
-=======================EDUCATION ============================
+
+                   EDUCATION 
 
 Bachelor's Degree in Software Engineering (In Progress)
 Adventist University of Central Africa (AUCA), Kigali
 
-=======================TECHNICAL SKILLS ======================
+                  TECHNICAL SKILLS
 
 Programming Languages
 Java
@@ -15,7 +15,7 @@ JavaScript (React.js, Next.js, and TypeScript)
 PL/SQL
 C
 
-=======================Frameworks & Libraries =================
+                  Frameworks & Libraries 
 
 Spring Boot
 React.js
@@ -23,15 +23,15 @@ Hibernate
 Tailwind CSS
 Next.js
 
-======================Databases ===============================
+                  Databases 
 
 PostgreSQL
 MySQL (Query Optimization)
 Oracle
-Microsoft sql Server
+Microsoft SQL Server
 
 
-=====================Tools & Platforms =======================
+                Tools & Platforms 
 
 Git
 Postman
@@ -42,7 +42,7 @@ NetBeans
 Hadoop
 Apache Spark
 
-====================Data Analysis & Reporting ==================
+                Data Analysis & Reporting
 
 Microsoft Excel
 Microsoft Word
@@ -50,7 +50,7 @@ Microsoft Power BI
 Digital Monitoring and Project Management Tools
 
 
-===================Projects ======================================
+              Projects
 
 1. Online Examination System
 Technologies: React.js · Spring Boot · JWT
@@ -74,14 +74,14 @@ Dynamic website built for a design firm, integrated with external APIs.
 
 
 
-=================Certifications =======================================
+                 Certifications
 
 Networking Essentials — Cisco Networking Academy (2025)
 Introduction to NetOps
 Introduction to Basics of Microsoft Power BI
 
 
-=================Languages =============================================
+               Languages
 
 English — Fluent
 Kinyarwanda — Native
